@@ -37,6 +37,9 @@ echo "if test x'$TAINER' != x; then>> stop.sh" >> stop.sh
 echo "	echo -n 'Removing.. '" >> stop.sh
 echo "	docker rm my-hr-head" >> stop.sh
 echo "fi" >> stop.sh
+chmod +x build.sh
+chmod +x run.sh
+chmod +x stop.sh
 #
 ####
 #
