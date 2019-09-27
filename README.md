@@ -1,4 +1,5 @@
 # BubbaDock
+This isn't working right yet
 ## This is a bash script with no dependencies.
 ## Put it wherever your PATH will find them.
 ## I use ~/bin
