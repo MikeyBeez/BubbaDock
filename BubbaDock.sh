@@ -1,4 +1,4 @@
-# Create build.sh, run.sh, stop.sh, and Dockerfile in current directory
+# Create stubs of build.sh, run.sh, stop.sh, and Dockerfile in current directory
 #
 ####
 touch build.sh 
