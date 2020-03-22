@@ -1,5 +1,5 @@
 # BubbaDock
-This still isn't working right yet.  I only spent about an hour on it, but if you use docker a lot, it's worth finishing.  I probably will when I start using docker a lot again.
+This isn't working right yet.  I only spent about an hour on it, but if you use docker a lot, it's worth finishing.  I probably will when I start using docker a lot again.
 ## This is a bash script with no dependencies.
 ## Put it wherever your PATH will find them.
 ## I use ~/bin
